@@ -1,7 +1,7 @@
 **Project Name:**
 # Novel-Hybrid-Artificial-Intelligence-Model-for-Prediction-of-Wind-Speed-
 **Description:**
-This project presents a novel hybrid artificial intelligence (AI) model developed for the accurate prediction of wind speed. Harnessing the power of machine learning and data analytics, this model aims to improve the precision and reliability of wind speed forecasting, a critical component in various industries including renewable energy, aviation, and agriculture.
+<br>This project presents a novel hybrid artificial intelligence (AI) model developed for the accurate prediction of wind speed. Harnessing the power of machine learning and data analytics, this model aims to improve the precision and reliability of wind speed forecasting, a critical component in various industries including renewable energy, aviation, and agriculture.<br>
 
 **Key Features:**
 **1.Hybrid Approach:** The model employs a hybrid approach that combines the strengths of multiple AI techniques, including neural networks, genetic algorithms, and fuzzy logic. By integrating these methods, the model can capture complex patterns and dependencies in wind speed data more effectively.
