@@ -1,0 +1,1 @@
+# Novel-Hybrid-Artificial-Intelligence-Model-for-Prediction-of-Wind-Speed-
